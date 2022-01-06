@@ -1,0 +1,17 @@
+{
+  "name": "smartguycodes_rng",
+  "version": "1.0.0",
+  "description": "Random Number Generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "rng",
+    "smartguycodes"
+  ],
+  "author": "C.E.O. Ogego aka SmartGuyCodes <smartguycodes@gmail.com>",
+  "license": "MIT"
+}
